@@ -1,0 +1,13 @@
+Place_index,Place_name,Latitude,Longitude,Neighbors_indice,Neighbors_weight
+1,Meydan-e Enghelab-e Eslami Metro Station,35.70150614,51.38992545,"2,4","11,6"
+2,Lamiz Coffee,35.70201975,51.40538127,"1,3","6,4"
+3,Red Crescent Central Pharmacy,35.70687351,51.41800666,"2,5","10,4"
+4,Carpet Museum of Iran,35.71513413,51.39071149,"1,5,6,7","7,6,5,6"
+5,Yas Hospital,35.71865846,51.41453105,"3,4,6,8","5,9,5,8"
+6,Salmas Park,35.72378818,51.40231007,"4,5,7","7,6,4"
+7,Faculty of Physical Education and Sport Sciences - University of Tehran,35.72940411,51.39066332,"4,6,9,10","7,7,9,6"
+8,Myket,35.73476867,51.41482001,"5,9","6,7"
+9,Yousef Abad Police Station,35.73747008,51.40624573,"7,8,11,12","8,10,5,7"
+10,Atomic Energy High School,35.73812161,51.39324762,"7,11","6,8"
+11,Tehran International Tower,35.74333003,51.39851346,"9,10,12","5,5,7"
+12,Dey General Hospital,35.74824752,51.41152013,"9,11","9,10"
